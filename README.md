@@ -7,3 +7,5 @@ This is a repo created to get familiar with **GitHub** for our training course:
 *Cloning that repository to our local computer*
 
 *Unordered list do not work*
+
+*...*
